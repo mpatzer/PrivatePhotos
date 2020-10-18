@@ -12,4 +12,5 @@ Private Photos respects your privacy and does not collect or store user data or 
 [Download on the App Store](https://apps.apple.com/us/app/private-photos/id1536232895)
 
 [Privacy Policy](https://www.termsfeed.com/live/da45e8f6-76a9-4d95-b4b3-17e60637d2bb)
+
 [Support](mailto:support@michaelpatzer.com)
