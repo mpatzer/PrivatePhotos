@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Private Photos
+When you send a photo through Messages, the recipient knows exactly where you are and what time you took the photo. Every picture, from your photo library or camera, is automatically tagged with your location and the time it was taken.
 
-You can use the [editor on GitHub](https://github.com/mpatzer/PrivatePhotos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Private Photos removes the location and timestamp metadata from your photos so you can feel comfortable sharing your experiences without comprising your privacy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Private Photos only removes privacy-sensitive metadata such as location and timestamps, but keeps important metadata like image orientation and color so that your pictures render perfectly and the recipient never knows that you've protected your pictures.
 
-### Markdown
+Private Photos does NOT remove the location and timestamp from the original photo, only the copy sent via Messages. This way, you can still maintain the location and timestamp of your photos for yourself, while protecting your privacy when you choose to share your photos.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Private Photos respects your privacy and does not collect or store user data or analytics.
 
-```markdown
-Syntax highlighted code block
+[Download on the App Store](https://apps.apple.com/us/app/private-photos/id1536232895)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mpatzer/PrivatePhotos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Privacy Policy](https://www.termsfeed.com/live/da45e8f6-76a9-4d95-b4b3-17e60637d2bb)
+[Support](mailto:support@michaelpatzer.com)
