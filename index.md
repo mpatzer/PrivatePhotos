@@ -1,4 +1,7 @@
+![](Icon-Transparent-Background-Small.png?raw=true)
+
 ## Private Photos
+
 When you send a photo through Messages, the recipient knows exactly where you are and what time you took the photo. Every picture, from your photo library or camera, is automatically tagged with your location and the time it was taken.
 
 Private Photos removes the location and timestamp metadata from your photos so you can feel comfortable sharing your experiences without comprising your privacy.
